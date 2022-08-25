@@ -29,7 +29,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://bitbucket.org/alimetry/r-d-gui/src/master/">
+  </a>
     <img src='./GUI_images/logo.png' alt="Logo" width="80" height="80">
   </a>
 
@@ -260,7 +260,7 @@ Thanks again!
 
 Remi Picard - remi.picard03@gmail.com
 
-GitHub Link: [https://bitbucket.org/imer_310/](https://bitbucket.org/imer_310/)
+GitHub Link: [https://github.com/remPicard](https://github.com/remPicard)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -279,4 +279,4 @@ GitHub Link: [https://bitbucket.org/imer_310/](https://bitbucket.org/imer_310/)
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [product-screenshot]: ./GUI_images/screenshot.png
-[logo]: ./GUI_images/alimetry.png
+[logo]: ./GUI_images/application.png
