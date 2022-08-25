@@ -146,7 +146,7 @@ You need to put the numpy arrays 8by8 containing the raw data you want to label 
 1. Download the latest version of <a href="https://www.python.org/downloads/">Python</a> (v3.10) 
 2. Clone the repository in a chosen directory
    ```sh
-   git clone https://Imer_310@bitbucket.org/alimetry/r-d-gui.git
+   git clone https://github.com/remPicard/GUI_SpatialLabelling.git
    ```
 3. Make sure the folders `GUI_images` and `numpyArrays8by8` are in the same directory as the code `GUI.py` before you execute it.
 
