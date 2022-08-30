@@ -29,14 +29,14 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  </a>
+  <a href="https://github.com/remPicard/GUI_SpatialLabelling">
     <img src='./GUI_images/logo.png' alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">GUI Spatial labelling</h3>
 
   <p align="center">
-This GUI allows Alimetry Spatial metrics team to labels the propagation of the stomach waves. 
+This GUI is Python application for efficiently labeling videos. 
     <br />
     </a>
     <br />
